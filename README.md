@@ -1,8 +1,9 @@
-# Shadcn Admin Dashboard
+# StarWatch Admin Dashboard
 
 Admin Dashboard UI crafted with Shadcn and Vite. Built with responsiveness and accessibility in mind.
 
-![alt text](public/images/shadcn-admin.png)
+![image](https://github.com/user-attachments/assets/be849d89-21fc-48a5-9104-ef2e696bb760)
+
 
 I've been creating dashboard UIs at work and for my personal projects. I always wanted to make a reusable collection of dashboard UI for future projects; and here it is now. While I've created a few custom components, some of the code is directly adapted from ShadcnUI examples.
 
@@ -14,7 +15,6 @@ I've been creating dashboard UIs at work and for my personal projects. I always 
 - Responsive
 - Accessible
 - Sidebar and header layouts
-- 10+ pages
 - Extra custom components
 
 ## Tech Stack
@@ -36,30 +36,30 @@ I've been creating dashboard UIs at work and for my personal projects. I always 
 Clone the project
 
 ```bash
-  git clone https://github.com/satnaing/shadcn-admin.git
+  git clone https://github.com/Zeeshan6871/StarWatchFrontend.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd shadcn-admin
+  cd StarWatchFrontend
 ```
 
 Install dependencies
 
 ```bash
-  pnpm install
+  npm install
 ```
 
 Start the server
 
 ```bash
-  pnpm run dev
+  npm run dev
 ```
 
 ## Author
 
-Crafted with 🤍 by [@satnaing](https://github.com/satnaing)
+Crafted with 🤍 by [@Zeeshan Ahmad](https://github.com/Zeeshan6871)
 
 ## License
 
